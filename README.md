@@ -3,6 +3,15 @@ Silkroad Online Web Panel (PHP)
 
 Panel 2014 Yılında tarafımca geliştirilmiş ve zamanla ihtiyaca göre farklı özellikler panele dahil edilmiştir. Burada paylaşılan panelin içerisinde Referans Sistemi ile üyelik ve Anlık Guild Savaşları göstergesi bulunmaktadır. Panel Club Silkroad dahil onlarca farklı oyun tarafından kullanılmıştır. 
 
+<p>
+  <a href="https://github.com/frkyldrm/Silkroad-Online-PHP-Web-Panel/">
+   <img src="https://img.shields.io/badge/php-5.6-yellow.svg" />
+  </a>
+  <a href="https://github.com/frkyldrm/Silkroad-Online-PHP-Web-Panel/">
+   <img src="https://img.shields.io/badge/pdo-sqlsrv-green.svg" />
+  </a>
+</p>
+
 
 **Kısaca Bazı Özellikler**
 -------------
