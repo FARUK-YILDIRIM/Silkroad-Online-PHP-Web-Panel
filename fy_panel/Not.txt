@@ -1,0 +1,2 @@
+Referans slq'leridenide ekledim sadece log klasöründekiler SRO_VT_LOG'a gerisi SRO_VT_ACCOUND
+Dbsine eklenecek
