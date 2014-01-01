@@ -47,6 +47,6 @@ Panel 2014 Yılında tarafımca geliştirilmiş ve zamanla ihtiyaca göre farkl�
 
 3. Panelin tanıtım videosu için [buraya tıklayın.](https://www.youtube.com/watch?v=fX7P2ok3VDM "buraya tıklayın.")
 
-5. Admin paneli tanıtım videosu için [buraya tıklayın.](https://www.youtube.com/watch?v=fX7P2ok3VDMhttp:// "buraya tıklayın.")
+5. Admin paneli tanıtım videosu için [buraya tıklayın.](https://www.youtube.com/watch?v=vy-89C3ZxDE "buraya tıklayın.")
 
 ![](https://raw.githubusercontent.com/frkyldrm/Silkroad-Online-PHP-Web-Panel/master/resim.jpg)
